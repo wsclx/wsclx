@@ -19,6 +19,10 @@ Themes for Home Assistant. Each is one YAML file with a light and a dark mode; t
 <td width="50%" valign="top"><a href="https://github.com/wsclx/contour-theme"><img src="https://raw.githubusercontent.com/wsclx/contour-theme/main/images/dashboard-light-desktop.png" alt="Contour theme, light mode" width="100%"></a><br><a href="https://github.com/wsclx/contour-theme"><b>Contour</b></a><br>A printed hiking map: contour lines and road red.</td>
 <td width="50%" valign="top"><a href="https://github.com/wsclx/dockside-theme"><img src="https://raw.githubusercontent.com/wsclx/dockside-theme/main/images/dashboard-light-desktop.jpg" alt="Dockside theme, light mode" width="100%"></a><br><a href="https://github.com/wsclx/dockside-theme"><b>Dockside</b></a><br>A desktop by the bay: glass widgets over a wallpaper, a see-through menu bar.</td>
 </tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/wsclx/overworld-theme"><img src="https://raw.githubusercontent.com/wsclx/overworld-theme/main/images/dashboard-light-desktop.png" alt="Overworld theme, light mode" width="100%"></a><br><a href="https://github.com/wsclx/overworld-theme"><b>Overworld</b></a><br>A pixel landscape behind the dashboard, windows with stepped corners.</td>
+<td width="50%" valign="top"><a href="https://github.com/wsclx/overworld-pixels"><img src="https://raw.githubusercontent.com/wsclx/overworld-pixels/main/images/icons-before-after.png" alt="Overworld Pixels, icons before and after" width="100%"></a><br><a href="https://github.com/wsclx/overworld-pixels"><b>Overworld Pixels</b></a><br>Companion module: pixel-art icons and a pixel font for Overworld.</td>
+</tr>
 </table>
 
 ## Hardware and tools
