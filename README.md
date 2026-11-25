@@ -17,7 +17,7 @@ Themes for Home Assistant. Each is one YAML file with a light and a dark mode; t
 </tr>
 <tr>
 <td width="50%" valign="top"><a href="https://github.com/wsclx/contour-theme"><img src="https://raw.githubusercontent.com/wsclx/contour-theme/main/images/dashboard-light-desktop.png" alt="Contour theme, light mode" width="100%"></a><br><a href="https://github.com/wsclx/contour-theme"><b>Contour</b></a><br>A printed hiking map: contour lines and road red.</td>
-<td width="50%"></td>
+<td width="50%" valign="top"><a href="https://github.com/wsclx/dockside-theme"><img src="https://raw.githubusercontent.com/wsclx/dockside-theme/main/images/dashboard-light-desktop.jpg" alt="Dockside theme, light mode" width="100%"></a><br><a href="https://github.com/wsclx/dockside-theme"><b>Dockside</b></a><br>A desktop by the bay: glass widgets over a wallpaper, a see-through menu bar.</td>
 </tr>
 </table>
 
