@@ -23,6 +23,10 @@ Themes for Home Assistant. Each is one YAML file with a light and a dark mode; t
 <td width="50%" valign="top"><a href="https://github.com/wsclx/overworld-theme"><img src="https://raw.githubusercontent.com/wsclx/overworld-theme/main/images/dashboard-light-desktop.png" alt="Overworld theme, light mode" width="100%"></a><br><a href="https://github.com/wsclx/overworld-theme"><b>Overworld</b></a><br>A pixel landscape behind the dashboard, windows with stepped corners.</td>
 <td width="50%" valign="top"><a href="https://github.com/wsclx/overworld-pixels"><img src="https://raw.githubusercontent.com/wsclx/overworld-pixels/main/images/icons-before-after.png" alt="Overworld Pixels, icons before and after" width="100%"></a><br><a href="https://github.com/wsclx/overworld-pixels"><b>Overworld Pixels</b></a><br>Companion module: pixel-art icons and a pixel font for Overworld.</td>
 </tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/wsclx/paper-layers-theme"><img src="https://raw.githubusercontent.com/wsclx/paper-layers-theme/main/images/dashboard-light-desktop.png" alt="Paper Layers theme, light mode" width="100%"></a><br><a href="https://github.com/wsclx/paper-layers-theme"><b>Paper Layers</b></a><br>Cut card stock in layers: what is on sits one sheet higher.</td>
+<td width="50%"></td>
+</tr>
 </table>
 
 ## Hardware and tools
